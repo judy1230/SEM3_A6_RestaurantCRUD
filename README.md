@@ -36,6 +36,6 @@ this project will run in node.js enviroment, install it by below command in your
 | 使用者可以刪除餐廳   |  餐廳欄位與detail頁面按下delete, redirect到 'http:///restaurants/:id/delete'刪除該筆資料 |
 |                    |     相關資料: index.handlebars   function: 加入刪除提醒                                    |
 
-
+use git log --date=local --pretty=format:"%h%x09%an%x09%ad%x09%s" > ../commits.local.tsv.txt to download commit log
 # Authors
   <li>Judy</li> <p>first edited on 06//2019</p>
