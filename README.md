@@ -2,10 +2,12 @@
 <h3>Restaurant CRUD</h3>
 
 # Getting Start
-[~/generate_trashtalk] $ git clone https://github.com/judy1230/SEM3_A6_RestaurantCRUD.git
-[~/generate_trashtalk] $ npm i express
-[~/generate_trashtalk] $ npm run dev
-</pre><code>open browser, typing localhost:3000 to start </h4>
+<pre><code>
+[~/] $ git clone https://github.com/judy1230/SEM3_A6_RestaurantCRUD.git
+[~/] $ npm i express
+[~/] $ npm run dev
+</pre></code>
+<h4> open browser, typing localhost:3000 to start </h4>
 
 this project will run in node.js enviroment, install it by below command in your teminal:
 <pre><code>
@@ -13,7 +15,7 @@ this project will run in node.js enviroment, install it by below command in your
 [~/] $ nvm install 10.15.
 </pre></code>
 # Display
-![Minion]()
+![Minion](https://upload.cc/i1/2019/06/22/YnNZ71.png)
 </pre></code>
 # Material
 <h4>browser: https://localhost＠port:3000</h4>
