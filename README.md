@@ -41,4 +41,4 @@ this project will run in node.js enviroment, install it by below command in your
 
 use git log --date=local --pretty=format:"%h%x09%an%x09%ad%x09%s" > ../commits.local.tsv.txt to download commit log
 # Authors
-  <li>Judy</li> <p>first edited on 06//2019</p>
+  <li>Judy</li> <p>first edited on 06/21/2019</p>
